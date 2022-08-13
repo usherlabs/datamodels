@@ -1,4 +1,4 @@
-# Ceramic Utility for Usher
+# Ceramic Data Models for Usher
 
 - Generated DID Key - `openssl rand -hex 32`
 - **Glaze CLI** -- [https://developers.ceramic.network/tools/glaze/example/](https://developers.ceramic.network/tools/glaze/example/)
