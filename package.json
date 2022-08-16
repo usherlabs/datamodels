@@ -1,6 +1,6 @@
 {
 	"name": "@usher.so/datamodels",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "Usher Ceramic Data Models Package",
 	"author": "Ryan Soury <ryan@usher.so>",
 	"homepage": "https://usher.so/",
