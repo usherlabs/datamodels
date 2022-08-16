@@ -13,7 +13,7 @@
 	"types": "dist/index.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/usherlabs/usher.js.git"
+		"url": "https://github.com/usherlabs/datamodels.git"
 	},
 	"publishConfig": {
 		"access": "public",
