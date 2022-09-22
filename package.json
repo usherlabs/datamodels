@@ -2,12 +2,19 @@
 	"name": "@usher.so/datamodels",
 	"version": "0.0.6",
 	"description": "Usher Ceramic Data Models Package",
+	"keywords": [
+		"Ceramic",
+		"Datamodels",
+		"Usher",
+		"Referrals",
+		"Programs"
+	],
 	"author": "Ryan Soury <ryan@usher.so>",
 	"homepage": "https://usher.so/",
 	"license": "MIT",
 	"private": false,
 	"files": [
-		"/dist"
+		"dist"
 	],
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
